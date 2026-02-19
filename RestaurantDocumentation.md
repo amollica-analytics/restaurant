@@ -1,6 +1,6 @@
 # Restaurant API
 
-This is a CRUD API for managing restaurant menu items with Express.js.
+This is a CRUD API for managing restaurant menu items with server.js.
 
 ## Postman Documentation
 
